@@ -12,3 +12,8 @@ taltal
 $ cd klto
 tdspts
 ```
+
+# TASKS
+- [ ] SI
+- [x] NO
+- [ ] SESE
